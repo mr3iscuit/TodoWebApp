@@ -53,3 +53,11 @@ New Todo page:
 ![Screenshot (31)](https://user-images.githubusercontent.com/86052693/164525916-3772aa03-db36-4b2b-b3d2-4b1636bd32ea.png)
 
 
+
+
+
+
+Problems that need to be solved:
+1. Refreshing problems
+2. Encrypt password
+3. Select todo from user.
