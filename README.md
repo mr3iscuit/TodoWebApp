@@ -1,23 +1,23 @@
 # TodoWebApp
-Tools and technologies used: 
-IDE - Intellij Idea; 
-JDK - 1.8 or later;
-Apache Tomcat - 8.5;
-JSP - 2.2+; 
-JSTL - 1.2.2;  
-Servlet API - 4.0.1; 
-MySQL - mysql-connector-java-8.0.22.jar;
+* Tools and technologies used: 
+* IDE - Intellij Idea; 
+* JDK - 1.8 or later;
+* Apache Tomcat - 8.5;
+* JSP - 2.2+; 
+* JSTL - 1.2.2;  
+* Servlet API - 4.0.1; 
+* MySQL - mysql-connector-java-8.0.22.jar;
 
 Development Steps: 
-Create an Intellij Idea Dynamic Web Project; 
-Add Dependencies; 
-Project Structure; 
-MySQL Database Setup; 
-Create a JavaBean - Todo.java, Login.java, User.java; 
-Create a TodoDao.java, TodoDaoImpl.java, LoginDao.java, UserDao.java; 
-Create a LoginController.java, TodoController.java, UserController.java (Servlet); 
-Create a login.jsp, register.jsp, todo-list.jsp, todo-form.jsp error-page.jsp; 
-Demo;
+* Create an Intellij Idea Dynamic Web Project; 
+* Add Dependencies; 
+* Project Structure; 
+* MySQL Database Setup; 
+* Create a JavaBean - Todo.java, Login.java, User.java; 
+* Create a TodoDao.java, TodoDaoImpl.java, LoginDao.java, UserDao.java; 
+* Create a LoginController.java, TodoController.java, UserController.java (Servlet); 
+* Create a login.jsp, register.jsp, todo-list.jsp, todo-form.jsp error-page.jsp; 
+* Demo;
 
 Register page:
 ![Screenshot (26)](https://user-images.githubusercontent.com/86052693/164525660-c3e8e2a8-61e1-49ce-b034-3e78d979373a.png)
