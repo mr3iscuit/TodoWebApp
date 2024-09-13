@@ -1,0 +1,6 @@
+<tomcat-users>
+    <!-- User for Tomcat Manager and Host Manager -->
+    <role rolename="manager-gui"/>
+    <role rolename="admin-gui"/>
+    <user username="admin" password="admin" roles="manager-gui,admin-gui"/>
+</tomcat-users>
